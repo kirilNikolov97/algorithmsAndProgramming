@@ -32,6 +32,34 @@ bool func(vector<int> one, vector<int> two){
     return true;
 }
 
+/// Task 3
+
+
+
+int get_min_distace(){
+    int n;
+    int arr_three[MAXN];
+
+    // Input
+    cin >> n;
+    for(int i = 0; i < n; i++){
+        cin >> arr_three[i];
+    }
+
+
+    int tmp = INT_MAX;
+    int curr = -1;
+    for(int i = 0; i < n; i++){
+        if((abs((arr_three[i] - arr_three[0]) - (arr_three[n - 1] - arr_three[i]))) < tmp){
+            tmp = (abs((arr_three[i] - arr_three[0]) - (arr_three[n - 1] - arr_three[i])));
+            curr = i;
+        }
+    }
+
+    return curr;
+
+
+}
 
 
 int main()
@@ -48,24 +76,30 @@ int main()
 //    cout << bin_search(0, n);
 
     /// Task 2
-    int n;
-    cin >> n;
+//    int n;
+//    cin >> n;
+//
+//    for(int i = 0; i < n; i++){
+//        vector<int> tmp;
+//        int tmp_num_one;
+//        int tmp_num_two;
+//        cin >> tmp_num_one >> tmp_num_two;
+//        tmp.push_back(tmp_num_one);
+//        tmp.push_back(tmp_num_two);
+//        arr_two.push_back(tmp);
+//    }
+//
+//    sort(arr_two.begin(), arr_two.end(), func);
+//
+//    for(int i = 0; i < n; i++){
+//        cout << arr_two[i][0] << '/' << arr_two[i][1] << endl;
+//    }
 
-    for(int i = 0; i < n; i++){
-        vector<int> tmp;
-        int tmp_num_one;
-        int tmp_num_two;
-        cin >> tmp_num_one >> tmp_num_two;
-        tmp.push_back(tmp_num_one);
-        tmp.push_back(tmp_num_two);
-        arr_two.push_back(tmp);
-    }
+    /// Task 3
+    cout << get_min_distace() << endl;
 
-    sort(arr_two.begin(), arr_two.end(), func);
 
-    for(int i = 0; i < n; i++){
-        cout << arr_two[i][0] << '/' << arr_two[i][1] << endl;
-    }
+
 
     return 0;
 }
