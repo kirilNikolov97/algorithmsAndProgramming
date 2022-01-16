@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T08:26:17.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9B-_jDl8idirVwDcxdr0" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T08:26:24.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="aM5UPE3bi588veWB3M4P" version="16.2.7" type="github">
   <diagram id="srqYewtXc7YHwzR8Wh0L" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,64 +20,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-2" value="Събиране на изискванията" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-3" value="Изготвяне на спецификацията" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-4" target="FQjklg7gbtDswjqx5rzU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-4" value="Планиране" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-5" target="FQjklg7gbtDswjqx5rzU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-5" value="Събиране на изискванията" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-6" target="FQjklg7gbtDswjqx5rzU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-6" value="Разработване и конфигуриране на софтуерна система" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-8" target="FQjklg7gbtDswjqx5rzU-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-8" value="Set-up и създаване на база данни" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-9" target="FQjklg7gbtDswjqx5rzU-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-9" value="Онлайн обучение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-10" value="Верификация и валидация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-11" target="FQjklg7gbtDswjqx5rzU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-11" value="Потребителски профил" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-12" target="FQjklg7gbtDswjqx5rzU-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-12" value="Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="450" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FQjklg7gbtDswjqx5rzU-13" target="FQjklg7gbtDswjqx5rzU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-13" value="Deploy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FQjklg7gbtDswjqx5rzU-15" value="Test on prod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
